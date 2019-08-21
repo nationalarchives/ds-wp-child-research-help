@@ -1,3 +1,67 @@
 /*! TNA Child styles */
 
 @import "global";
+.page-template-page-level-one {
+    main {
+        .tool-bar-col {
+            width: 100%;
+            .tool-bar {
+                margin-bottom: 1.6em;
+                padding: 1em;
+                .col-md-6 {
+                    @media only screen and (max-width: 867px) {
+                        width: 100%;
+                    }
+                    .button {
+                        @media only screen and (max-width: 867px) {
+                            display: block;
+                        }
+                    }
+                    .hwyr-form-wrapper {
+                        @media only screen and (max-width: 867px) {
+                            margin-top: 1em;
+                        }
+                        form {
+                            label {
+                                display: none;
+                            }
+                            [type='submit'] {
+                                background: url(http://www.nationalarchives.gov.uk/wp-content/themes/tna/images/global/search-white.png) center no-repeat #000;
+                                width: 45px;
+                                height: 45px;
+                                position: absolute;
+                                right: 15px;
+                                background-position: center;
+                            }
+                            [type='text'] {
+                                width: 75%;
+                                position: absolute;
+                                right: 57px;
+                                height: 45px;
+                                &::-webkit-input-placeholder {
+                                    font-family: 'Roboto Mono', monospace;
+                                }
+                                &::-moz-placeholder {
+                                    font-family: 'Roboto Mono', monospace;
+                                }
+                                &:-ms-input-placeholder {
+                                    /* IE 10+ */
+                                    font-family: 'Roboto Mono', monospace;
+                                }
+                                &:-moz-placeholder {
+                                    /* Firefox 18- */
+                                    font-family: 'Roboto Mono', monospace;
+                                }
+                                @media only screen and (max-width: 867px) {
+                                    position: static;
+                                    float: left;
+                                    width: 100%;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
