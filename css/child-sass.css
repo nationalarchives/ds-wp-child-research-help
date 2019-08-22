@@ -51,9 +51,9 @@
   padding-top: 10px; }
 .page-template-page-level-one main #how-to-view-a-record h2 {
   margin-bottom: 26px; }
-.page-template-page-level-one main #how-to-view-a-record a:hover {
+.page-template-page-level-one main #how-to-view-a-record a:hover, .page-template-page-level-one main #how-to-view-a-record a:active, .page-template-page-level-one main #how-to-view-a-record a:focus {
   text-decoration: none; }
-  .page-template-page-level-one main #how-to-view-a-record a:hover h3, .page-template-page-level-one main #how-to-view-a-record a:hover h2 {
+  .page-template-page-level-one main #how-to-view-a-record a:hover h3, .page-template-page-level-one main #how-to-view-a-record a:hover h2, .page-template-page-level-one main #how-to-view-a-record a:active h3, .page-template-page-level-one main #how-to-view-a-record a:active h2, .page-template-page-level-one main #how-to-view-a-record a:focus h3, .page-template-page-level-one main #how-to-view-a-record a:focus h2 {
     text-decoration: underline; }
 .page-template-page-level-one main #how-to-view-a-record a p {
   color: #26262a; }
@@ -65,3 +65,6 @@
     padding-bottom: 1em; }
   .page-template-page-level-one main #how-to-view-a-record .contact-for-advice h3, .page-template-page-level-one main #how-to-view-a-record .contact-for-advice h2 {
     border-top: none; }
+.page-template-page-level-one main #calls-to-action h3:hover, .page-template-page-level-one main #calls-to-action #how-to-view-a-record h2:hover, .page-template-page-level-one main #how-to-view-a-record #calls-to-action h2:hover {
+  text-decoration: none;
+  cursor: default; }

@@ -79,7 +79,9 @@ $tna-black: #26262a;
                 margin-bottom: 26px;
             }
             a {
-                &:hover {
+                &:hover,
+                &:active,
+                &:focus {
                     text-decoration: none;
                     h3 {
                         text-decoration: underline;
@@ -98,6 +100,14 @@ $tna-black: #26262a;
                 }
                 h3 {
                     border-top: none;
+                }
+            }
+        }
+        #calls-to-action {
+            h3 {
+                &:hover {
+                    text-decoration: none;
+                    cursor: default;
                 }
             }
         }

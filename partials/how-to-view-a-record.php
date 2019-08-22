@@ -5,7 +5,8 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="card">
-                        <a href="#">
+                        <a target="_blank"
+                            href="https://maps.google.com/maps?q=The+National+Archives,+Kew,+Richmond,+United+Kingdom&hl=en&sll=51.454251,-0.291338&sspn=0.200887,0.389328&oq=the+national&t=m&z=16&iwloc=A">
                             <div class="entry-image visit-us"
                                 style="background-image: url(http://www.nationalarchives.gov.uk/images/home/map-location-the-national-archives.jpg)">
                             </div>
@@ -22,7 +23,8 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="card">
-                                <a href="#">
+                                <a
+                                    href="http://www.nationalarchives.gov.uk/help-with-your-research/paying-for-research/">
                                     <h3>Pay for research</h3>
                                 </a>
                                 <p>Use our paid search service or find an independent researcher.</p>
@@ -30,7 +32,7 @@
                         </div>
                         <div class="col-md-12">
                             <div class="card">
-                                <a href="#">
+                                <a href="http://www.nationalarchives.gov.uk/recordcopying/">
                                     <h3>Order copies</h3>
                                 </a>
                                 <p>We can either copy our records onto paper or deliver them to you digitally.</p>
@@ -53,7 +55,7 @@
                     <p>For quick pointers.Tuesday to Saturday 09:00 to 17:00</p>
 
 
-                    <a href="#">
+                    <a href="http://apps.nationalarchives.gov.uk/contact/contactform.asp?id=22">
                     </a>
                     <h4><a href="#"></a><a href="http://apps.nationalarchives.gov.uk/contact/contactform.asp?id=22"
                             title="Email us ">Email</a></h4>

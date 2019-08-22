@@ -9,7 +9,8 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-family.jpg);">
                         </div>
@@ -21,7 +22,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-firstworldwar.jpg);">
                         </div>
@@ -33,7 +35,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-secondworldwar.jpg);">
                         </div>
@@ -45,7 +48,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=military-and-maritime">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-militarymaritime.jpg);">
                         </div>
@@ -57,7 +61,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=social-and-cultural-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-socialcultural.jpg);">
                         </div>
@@ -69,7 +74,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=criminals-courts-and-prisons">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-criminalscourtsprisons.jpg);">
                         </div>
@@ -81,7 +87,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=political-and-economic-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-politicaleconomic.jpg);">
                         </div>
@@ -93,7 +100,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=foreign-and-colonial-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-foreigncolonial.jpg);">
                         </div>
@@ -105,7 +113,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=land-and-maps">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-landmaps.jpg);">
                         </div>
@@ -117,7 +126,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=medieval-early-modern-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-medievalearlymodern.jpg);">
                         </div>
@@ -129,7 +139,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?letter=&search=&research-category=records-for-current-legal-purposes">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-currentlegal.jpg);">
                         </div>
@@ -141,7 +152,8 @@
             </div>
             <div class="col-md-3">
                 <div class="card">
-                    <a href="#">
+                    <a
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?letter=&search=&research-category=online">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-onlinecollections.jpg);">
                         </div>
