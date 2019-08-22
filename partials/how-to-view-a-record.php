@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="card">
-                        <a target="_blank" href="http://www.nationalarchives.gov.uk/visit/default.htm">
+                        <a href="http://www.nationalarchives.gov.uk/visit/default.htm">
                             <div class="entry-image visit-us"
                                 style="background-image: url(http://www.nationalarchives.gov.uk/images/home/map-location-the-national-archives.jpg)">
                             </div>
