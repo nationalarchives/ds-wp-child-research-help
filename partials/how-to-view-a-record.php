@@ -6,7 +6,7 @@
                     <h2>How to view our records</h2>
                 </div>
                 <div class="row cards">
-                    <div class="col-md-8">
+                    <div class="col-md-8 full-width">
                         <div class="card">
                             <a href="#">
                                 <div class="entry-image visit-us"
@@ -22,20 +22,27 @@
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <div class="card">
-                            <a href="#">
-                                <h3>Pay for research</h3>
-                            </a>
-                            <p>Use our paid search service or find an independent researcher.</p>
+                        <div class="row">
+                            <div class="col-md-12 full-width">
+                                <div class="card">
+                                    <a href="#">
+                                        <h3>Pay for research</h3>
+                                    </a>
+                                    <p>Use our paid search service or find an independent researcher.</p>
+                                </div>
+                            </div>
+                            <div class="col-md-12 full-width">
+                                <div class="card">
+                                    <a href="#">
+                                        <h3>Order copies</h3>
+                                    </a>
+                                    <p>We can either <a href="http://www.nationalarchives.gov.uk/recordcopying">copy our
+                                            records</a> onto paper or deliver them to you digitally.</p>
+                                </div>
+                            </div>
                         </div>
-                        <div class="card">
-                            <a href="#">
-                                <h3>Order copies</h3>
-                            </a>
-                            <p>We can either <a href="http://www.nationalarchives.gov.uk/recordcopying">copy our
-                                    records</a>
-                                onto paper or deliver them to you digitally.</p>
-                        </div>
+
+
                     </div>
                 </div>
             </div>
