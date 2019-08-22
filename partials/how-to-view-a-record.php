@@ -33,8 +33,7 @@
                                 <a href="#">
                                     <h3>Order copies</h3>
                                 </a>
-                                <p>We can either <a href="http://www.nationalarchives.gov.uk/recordcopying">copy our
-                                        records</a> onto paper or deliver them to you digitally.</p>
+                                <p>We can either copy our records onto paper or deliver them to you digitally.</p>
                             </div>
                         </div>
                     </div>
@@ -44,17 +43,16 @@
             </div>
         </div>
         <div class="col-md-4">
-            <div class="still-need-help hue-green">
-                <h2>Contact us for advice</h2>
-                <h3>Still need help?</h3>
-                <div class="card">
-
+            <div class="contact-for-advice hue-green">
+                <div class="spacing">
+                    <h2>Contact us for advice</h2>
+                    <h3>Still need help?</h3>
                     <a href="http://apps.nationalarchives.gov.uk/contact/#livechat">
                         <h4>Live chat</h4>
                     </a>
                     <p>For quick pointers.Tuesday to Saturday 09:00 to 17:00</p>
-                </div>
-                <div class="card">
+
+
                     <a href="#">
                     </a>
                     <h4><a href="#"></a><a href="http://apps.nationalarchives.gov.uk/contact/contactform.asp?id=22"

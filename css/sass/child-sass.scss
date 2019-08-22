@@ -79,13 +79,24 @@ $tna-black: #26262a;
                 margin-bottom: 26px;
             }
             a {
+                &:hover {
+                    text-decoration: none;
+                    h3 {
+                        text-decoration: underline;
+                    }
+                }
                 p {
                     color: $tna-black;
                 }
-                &:hover {
-                    p {
-                        text-decoration: $tna-black;
-                    }
+            }
+            .contact-for-advice {
+                border-top: $border-top;
+                .spacing {
+                    padding-left: 1em;
+                    padding-bottom: 1em;
+                }
+                h3 {
+                    border-top: none;
                 }
             }
         }
