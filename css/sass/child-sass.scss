@@ -1,6 +1,8 @@
 /*! TNA Child styles */
 
-@import "global";
+$border-top: 2px solid #26262a;
+$tna-black: #26262a;
+@import 'global';
 .page-template-page-level-one {
     main {
         .tool-bar-col {
@@ -63,11 +65,29 @@
                 }
             }
         }
-        .visit-us {
-            min-height: 185px;
-        }
-        .full-width {
-            width: 100%;
+        #how-to-view-a-record {
+            .visit-us {
+                min-height: 185px;
+            }
+            h3 {
+                border-top: $border-top;
+                margin-top: 0;
+                padding-top: 10px;
+            }
+            h2 {
+                @extend h3;
+                margin-bottom: 26px;
+            }
+            a {
+                p {
+                    color: $tna-black;
+                }
+                &:hover {
+                    p {
+                        text-decoration: $tna-black;
+                    }
+                }
+            }
         }
     }
 }

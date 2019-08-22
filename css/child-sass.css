@@ -43,7 +43,15 @@
           position: static;
           float: left;
           width: 100%; } }
-.page-template-page-level-one main .visit-us {
+.page-template-page-level-one main #how-to-view-a-record .visit-us {
   min-height: 185px; }
-.page-template-page-level-one main .full-width {
-  width: 100%; }
+.page-template-page-level-one main #how-to-view-a-record h3, .page-template-page-level-one main #how-to-view-a-record h2 {
+  border-top: 2px solid #26262a;
+  margin-top: 0;
+  padding-top: 10px; }
+.page-template-page-level-one main #how-to-view-a-record h2 {
+  margin-bottom: 26px; }
+.page-template-page-level-one main #how-to-view-a-record a p {
+  color: #26262a; }
+.page-template-page-level-one main #how-to-view-a-record a:hover p {
+  text-decoration: #26262a; }
