@@ -23,7 +23,7 @@
             <div class="col-md-3">
                 <div class="card">
                     <a
-                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=first-world-war">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-firstworldwar.jpg);">
                         </div>
@@ -36,7 +36,7 @@
             <div class="col-md-3">
                 <div class="card">
                     <a
-                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
+                        href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=second-world-war-research">
                         <div class="entry-image"
                             style="background-image: url(<?php echo get_stylesheet_directory_uri(); ?>/img/banner-category-secondworldwar.jpg);">
                         </div>
