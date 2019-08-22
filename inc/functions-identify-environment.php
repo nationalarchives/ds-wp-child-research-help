@@ -14,7 +14,7 @@ function identifyEnvironmentFromIP($server_ip = null, $client_ip = null)
         throw new BadFunctionCallException('identifyEnvironmentFromIP function must be passed at IP');
     }
 
-    if ($client_ip === $server_ip) {
+    if (substr($client_ip, 0, 6) === substr($server_ip, 0, 6)) {
         return 'development';
     }
 
