@@ -17,7 +17,7 @@
                     <div class="entry-content">
                         <h3>Search our records</h3>
                         <p>
-                            <a href="http://discovery.nationalarchives.gov.uk/" class="button">Discovery - our
+                            <a href="https://discovery.nationalarchives.gov.uk/" class="button">Discovery - our
                                 catalogue</a>
                         </p>
                     </div>
