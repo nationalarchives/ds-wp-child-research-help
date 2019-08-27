@@ -3,7 +3,7 @@
         <div class="hue-green tool-bar">
             <div class="row">
                 <div class="col-md-6">
-                    <a href="http://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywords/"
+                    <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywords/"
                         class="button default">Use our
                         A-Z index</a> or select a subject below.
                 </div>
