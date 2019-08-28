@@ -5,60 +5,52 @@
                 <h2>How to view our records</h2>
                 <div class="row">
                     <div class="col-md-8">
-                        <div class="card">
-                            <a href="https://www.nationalarchives.gov.uk/visit/default.htm">
-                                <div class="entry-image visit-us"
-                                    style="background-image: url(https://www.nationalarchives.gov.uk/images/home/map-location-the-national-archives.jpg)">
-                                </div>
-                                <div class="entry-content">
-                                    <h3>Visit Us</h3>
-                                    <p>Visit Kew to see original documents or records. Entrance is free and there is no
-                                        need to
-                                        book.</p>
-                                </div>
-                            </a>
-                        </div>
+                        <a href="https://www.nationalarchives.gov.uk/about/visit-us/">
+                            <div class="entry-image visit-us"
+                                style="background-image: url(https://www.nationalarchives.gov.uk/images/home/map-location-the-national-archives.jpg)">
+                            </div>
+                        </a>
+                            <div class="entry-content">
+                                <h3>
+                                    <a href="https://www.nationalarchives.gov.uk/about/visit-us/">Visit Us</a>
+                                </h3>
+                                <p>Visit Kew to see original documents or records. Entrance is free and there is no
+                                    need to
+                                    book.</p>
+                            </div>
                     </div>
                     <div class="col-md-4">
                         <div class="row">
                             <div class="col-md-12">
-                                <div class="card">
-                                    <a
-                                        href="https://www.nationalarchives.gov.uk/help-with-your-research/paying-for-research/">
-                                        <h3>Pay for research</h3>
-                                    </a>
-                                    <p>Use our paid search service or find an independent researcher.</p>
-                                </div>
+                                <h3 class="no-margin-top">
+                                    <a href="https://www.nationalarchives.gov.uk/help-with-your-research/paying-for-research/">Pay for research</a>
+                                </h3>
+                                <p>Use our paid search service or find an independent researcher.</p>
+
                             </div>
                             <div class="col-md-12">
-                                <div class="card">
-                                    <a href="https://www.nationalarchives.gov.uk/recordcopying/">
-                                        <h3>Order copies</h3>
-                                    </a>
-                                    <p>We can either copy our records onto paper or deliver them to you digitally.</p>
-                                </div>
+                                <h3>
+                                    <a href="https://www.nationalarchives.gov.uk/recordcopying/">Order copies</a>
+                                </h3>
+                                <p>We can either copy our records onto paper or deliver them to you digitally.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="contact-for-advice hue-green">
-                    <div class="spacing">
-                        <h2>Contact us for advice</h2>
-                        <h3>Still need help?</h3>
-                        <a href="https://www.nationalarchives.gov.uk/contact-us/#livechat">
-                            <h4>Live chat</h4>
-                        </a>
-                        <p>For quick pointers.Tuesday to Saturday 09:00 to 17:00</p>
-                        <h4>
-                            <a href="https://www.nationalarchives.gov.uk/contact-us/make-a-records-and-research-enquiry/"
-                                title="Email us ">Email</a>
-                        </h4>
-                        <p>For more detailed research enquiries.</p>
-                    </div>
+                <div class="contact-for-advice hue-green clearfix">
+                    <h2>Contact us for advice</h2>
+                    <h3>Still need help?</h3>
+                    <h4>
+                        <a href="https://www.nationalarchives.gov.uk/contact-us/#livechat">Live chat</a>
+                    </h4>
+                    <p>For quick pointers.Tuesday to Saturday 09:00 to 17:00</p>
+                    <h4>
+                        <a href="https://www.nationalarchives.gov.uk/contact-us/make-a-records-and-research-enquiry/" title="Email us ">Email</a>
+                    </h4>
+                    <p>For more detailed research enquiries.</p>
                 </div>
-
             </div>
         </div>
     </div>
