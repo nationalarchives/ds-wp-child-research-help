@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-md-12 tool-bar-col">
-        <div class="hue-green tool-bar">
+        <div class="hue-green tool-bar clearfix">
             <div class="row">
                 <div class="col-md-6">
                     <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywords/"

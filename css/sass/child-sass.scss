@@ -2,3 +2,8 @@
 
 @import 'variables';
 @import 'global';
+@media (max-width: 480px) {
+    .row>.tool-bar-col {
+        display: inline-block;
+    }
+}
