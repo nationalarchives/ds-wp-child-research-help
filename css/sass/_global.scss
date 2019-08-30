@@ -30,27 +30,12 @@
                 height: 45px;
                 position: absolute;
                 right: 15px;
-                background-position: center;
               }
               [type='text'] {
                 width: 75%;
                 position: absolute;
                 right: 57px;
                 height: 45px;
-                &::-webkit-input-placeholder {
-                  font-family: 'Roboto Mono', monospace;
-                }
-                &::-moz-placeholder {
-                  font-family: 'Roboto Mono', monospace;
-                }
-                &:-ms-input-placeholder {
-                  /* IE 10+ */
-                  font-family: 'Roboto Mono', monospace;
-                }
-                &:-moz-placeholder {
-                  /* Firefox 18- */
-                  font-family: 'Roboto Mono', monospace;
-                }
                 @media only screen and (max-width: 867px) {
                   position: static;
                   float: left;
@@ -63,42 +48,28 @@
       }
     }
     .how-to-view-a-record {
+      margin-bottom: 1.6em;
       .visit-us {
         min-height: 185px;
       }
-      h3 {
+      h2 {
         border-top: $border-top;
         margin-top: 0;
         padding-top: 10px;
-      }
-      h2 {
-        @extend h3;
         margin-bottom: 26px;
       }
-      a {
-        &:hover,
-        &:active,
-        &:focus {
-          text-decoration: none;
-          h3 {
-            text-decoration: underline;
-          }
-        }
-        p {
-          color: $tna-black;
-        }
-      }
       .contact-for-advice {
-        margin-bottom: 1em;
         border-top: $border-top;
-        .spacing {
-          padding-left: 1em;
-          padding-bottom: 1em;
-        }
-        h3 {
+        padding: 0 1em;
+        h2 {
           border-top: none;
         }
       }
     }
+  }
+}
+@media (max-width: 480px) {
+  .row>.tool-bar-col {
+    display: inline-block;
   }
 }

@@ -7,7 +7,7 @@
                         <h3>Unfamiliar with archives?</h3>
                         <p>
                             <a href="https://www.nationalarchives.gov.uk/help-with-your-research/start-here/"
-                            class="button">Start Here</a>
+                            class="button">Start here</a>
                         </p>
                     </div>
                 </div>
