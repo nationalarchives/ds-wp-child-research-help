@@ -46,3 +46,7 @@
     padding: 0 1em; }
     .page-template-page-level-one main .how-to-view-a-record .contact-for-advice h2 {
       border-top: none; }
+
+@media (max-width: 480px) {
+  .row > .tool-bar-col {
+    display: inline-block; } }
