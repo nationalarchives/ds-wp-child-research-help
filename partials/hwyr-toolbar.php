@@ -9,12 +9,12 @@
                 </div>
                 <div class="col-md-6">
                     <div class="hwyr-form-wrapper">
-                        <form method="get" action="/help-with-your-research/research-guides/" role="search"
+                        <form method="get" action="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" role="search"
                             class="input-extended position-relative pad-small margin-medium hue-25-black">
                             <label for="Search">Search all research guides</label>
                             <input type="text" id="search" name="search" placeholder="Search all research guides"
                                 value="">
-                            <input type="submit" class="search-button-medium" alt="Submit search" value="">
+                            <input type="submit" class="search-button-medium" value="">
                         </form>
                     </div>
                 </div>
