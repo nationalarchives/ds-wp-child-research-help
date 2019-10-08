@@ -71,7 +71,7 @@
                             style="background-image: url(<?php echo $theme_uri; ?>/img/banner-category-socialcultural.jpg);">
                         </div>
                         <div class="entry-content">
-                            <h3>Social and culture history</h3>
+                            <h3>Social and cultural history</h3>
                         </div>
                     </a>
                 </div>
