@@ -4,7 +4,7 @@ module.exports = grunt => {
         pkg: grunt.file.readJSON('package.json'),
         sass: {
             options: {
-                sourcemap: 'none'
+                sourceMap: false
             },
             dist: {
                 files: {

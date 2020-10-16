@@ -4,7 +4,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="entry-content">
-                        <h3>Unfamiliar with archives?</h3>
+                        <h2>Unfamiliar with archives?</h2>
                         <p>
                             <a href="https://www.nationalarchives.gov.uk/help-with-your-research/start-here/"
                             class="button">Start here</a>
@@ -15,7 +15,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="entry-content">
-                        <h3>Search our records</h3>
+                        <h2>Search our records</h2>
                         <p>
                             <a href="https://discovery.nationalarchives.gov.uk/" class="button">Discovery - our
                                 catalogue</a>
@@ -26,7 +26,7 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="entry-content">
-                        <h3>Need help using Discovery?</h3>
+                        <h2>Need help using Discovery?</h2>
                         <p>
                             <a href="https://www.nationalarchives.gov.uk/help-with-your-research/discovery-help/"
                                 class="button">Discovery help</a>
