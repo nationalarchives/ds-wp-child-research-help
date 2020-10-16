@@ -70,7 +70,8 @@
     display: inline-block;
   }
 }
-#calls-to-action .cards .card h3 {
+#calls-to-action .cards .card h2 {
+  font-size: 1.3em;
   min-height: 70px;
 }
 
