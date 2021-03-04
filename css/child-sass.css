@@ -25,6 +25,12 @@
       @media only screen and (max-width: 867px) {
         .page-template-page-level-one main .tool-bar-col .tool-bar .col-md-6 .hwyr-form-wrapper form [type='text'] {
           width: 94%; } }
+      @media only screen and (max-width: 768px) {
+        .page-template-page-level-one main .tool-bar-col .tool-bar .col-md-6 .hwyr-form-wrapper form [type='text'] {
+          width: 90%; } }
+      @media only screen and (max-width: 380px) {
+        .page-template-page-level-one main .tool-bar-col .tool-bar .col-md-6 .hwyr-form-wrapper form [type='text'] {
+          width: 80%; } }
 .page-template-page-level-one main .how-to-view-a-record {
   margin-bottom: 1.6em; }
   .page-template-page-level-one main .how-to-view-a-record .visit-us {
