@@ -21,25 +21,23 @@
               margin-top: 1em;
             }
             form {
-              label {
-                display: none;
-              }
               [type='submit'] {
                 background: url(https://www.nationalarchives.gov.uk/wp-content/themes/tna/images/global/search-white.png) center no-repeat #000;
                 width: 45px;
                 height: 45px;
                 position: absolute;
-                right: 15px;
               }
               [type='text'] {
                 width: 75%;
-                position: absolute;
-                right: 57px;
                 height: 45px;
                 @media only screen and (max-width: 867px) {
-                  position: static;
-                  float: left;
-                  width: 100%;
+                  width: 94%;
+                }
+                @media only screen and (max-width: 768px) {
+                  width: 90%;
+                }
+                @media only screen and (max-width: 380px) {
+                  width: 80%;
                 }
               }
             }
