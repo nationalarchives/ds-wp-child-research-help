@@ -45,7 +45,7 @@
                     <h4>
                         <a href="https://www.nationalarchives.gov.uk/contact-us/#livechat">Live chat</a>
                     </h4>
-                    <p>For quick pointers. <br>Tuesday to Saturday <br>09:00 to 17:00</p>
+                    <p>For quick pointers. <br>Tuesday to Saturday (excluding bank holiday weekends)<br>09:00 to 17:00</p>
                     <h4>
                         <a href="https://www.nationalarchives.gov.uk/contact-us/make-a-records-and-research-enquiry/" title="Email us ">Email</a>
                     </h4>
