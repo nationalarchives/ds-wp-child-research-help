@@ -14,6 +14,19 @@
             <div class="col-md-3">
                 <div class="card">
                     <a
+                            href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?letter=&search=&research-category=online">
+                        <div class="entry-image"
+                             style="background-image: url(<?php echo $theme_uri; ?>/img/banner-category-onlinecollections.jpg);">
+                        </div>
+                        <div class="entry-content">
+                            <h3>Online collections</h3>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card">
+                    <a
                         href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?research-category=family-history">
                         <div class="entry-image"
                             style="background-image: url(<?php echo $theme_uri; ?>/img/banner-category-family.jpg);">
@@ -154,19 +167,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="card">
-                    <a
-                        href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/?letter=&search=&research-category=online">
-                        <div class="entry-image"
-                            style="background-image: url(<?php echo $theme_uri; ?>/img/banner-category-onlinecollections.jpg);">
-                        </div>
-                        <div class="entry-content">
-                            <h3>Online collections</h3>
-                        </div>
-                    </a>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
