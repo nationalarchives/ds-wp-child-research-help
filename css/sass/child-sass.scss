@@ -26,4 +26,10 @@
   margin-top: 0;
   font-size: 1.3em;
   font-family: "Roboto Mono", monospace;
+  color: #134571;
+  text-decoration: underline;
+}
+
+.cards .card a:hover .entry-content-heading {
+  background-color: #134571;
 }
