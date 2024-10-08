@@ -81,17 +81,18 @@
   color: transparent;
 }
 
-.entry-content-heading {
+.cards .card .entry-content-heading {
   border-top: 2px solid #26262a;
   padding-top: 10px;
   margin-top: 0;
   font-size: 1.3em;
   font-family: "Roboto Mono", monospace;
-  color: #134571;
-  text-decoration: underline;
+  color: #134571 !important;
+  text-decoration: underline !important;
 }
 
 .cards .card a:hover .entry-content-heading {
+  color: #fff !important;
   background-color: #134571;
 }
 
