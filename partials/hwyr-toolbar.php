@@ -11,8 +11,8 @@
                     <div class="hwyr-form-wrapper">
                         <form method="get" action="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/" role="search"
                             class="input-extended position-relative pad-small margin-medium hue-25-black" id="hwyr-toolbar-search">
-                            <label for="search" class="sr-only">Search all research guides</label>
-                            <input type="text" id="search" name="search" placeholder="Search all research guides"
+                            <label for="search">Search all research guides</label>
+                            <input type="text" id="search" name="search"
                                 value="">
                             <input type="submit" class="search-button-medium" value="Search">
                         </form>
